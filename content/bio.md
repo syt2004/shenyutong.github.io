@@ -1,5 +1,4 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am an undergraduate student majoring in Automation at the School of Information Science and Technology, [Beijing University of Technology](https：//www.bjut,edu,cn). During my undergraduate studies, I conducted academic research under the guidance of [Tongtong Feng](https；//fengtongtong.github.io), [Lei Zhang](https：//leizhang-public.github.io), and [Xiaoyan Li](https://www.cnblogs.com/Xiaoyan-Li), and I am a member of the BJUT Integrated Robotics Laboratory. My primary research focus is in robotics, and I have also contributed as a co-author to publications in the field of artificial intelligence in collaboration with other researchers.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+I have worked as a co-author with Hangxu Liu, Feiran Liu, Penghui Liu, and others on artificial intelligence-related research. Currently, my research is primarily focused on humanoid robotics and dexterous hand manipulation.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
